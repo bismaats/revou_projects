@@ -1,4 +1,4 @@
-# revou_projects
+# RevoU Projects
 Projects I did at RevoU Data Analyst Bootcamp will be listed here.
 
 Team C Seoul - Group Final Project.pdf is the main file, used this as the presentation slide.
